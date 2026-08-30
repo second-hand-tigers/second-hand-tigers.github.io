@@ -44,7 +44,7 @@ right now.
   management, drawn from individual engineers' real career experience.
 
 ## How This Organization Is Structured
-
+```
 Learning Hub                    (this page)
 ├── chem-eng-projects            (Process Engineering hub — philosophy, general wiki, links to projects)
 │   ├── chem-eng-projects-MogasDebenz   (one specific fictional project)
@@ -52,6 +52,7 @@ Learning Hub                    (this page)
 └── career-learnings-directory   (Career Learnings hub — links to contributor repos)
     ├── badocter-career-learnings  (one contributor's career content)
     └── (future contributor repos)
+```
 
 ## Who This Is For
 

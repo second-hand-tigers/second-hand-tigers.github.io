@@ -38,7 +38,7 @@ Area project work above. Most people are working on a project and a
 career at the same time; start with whichever one you're more drawn to
 right now.
 
-- **[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory)**
+- **[Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)**
   — Directory of contributor repos covering topics like career-stage
   development, communication and marketing, mentoring, and stress
   management, drawn from individual engineers' real career experience.

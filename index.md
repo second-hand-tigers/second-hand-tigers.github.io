@@ -3,6 +3,8 @@ layout: default
 title: Learning Hub
 ---
 
+_[Toggle to Repo View](https://github.com/second-hand-tigers)_
+
 # Learning Hub
 
 Welcome — this is the top-level entry point for the **second-hand-tigers**

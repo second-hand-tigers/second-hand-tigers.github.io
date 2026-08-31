@@ -21,7 +21,7 @@ project content itself.
 Discipline-based hubs for project execution training — flowsheet modeling,
 design, and the stakeholder-communication skills a real project demands.
 
-- **[Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects)**
+- **[Process Engineering](https://second-hand-tigers.github.io/chem-eng-projects/)**
   — Flowsheet modeling, process design, and stakeholder-communication
   training built around fictional refinery/process projects (e.g. the
   Motor Gasoline Benzene Removal Project). Start here for anything related

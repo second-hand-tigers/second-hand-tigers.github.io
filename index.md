@@ -45,6 +45,17 @@ right now.
   development, communication and marketing, mentoring, and stress
   management, drawn from individual engineers' real career experience.
 
+## Toolkit
+
+Reusable command-line tools behind how this organization's content is
+built and maintained — not project or career content itself, but the
+infrastructure someone would want if they're adapting this whole
+approach for their own group.
+
+- **[toolkit](https://second-hand-tigers.github.io/toolkit/)** — public,
+  MIT-licensed tools (starting with a GitHub wiki dump utility), meant to
+  be cloned and reused directly rather than read about.
+
 ## How This Organization Is Structured
 ```
 Learning Hub                    (this page)
@@ -61,7 +72,7 @@ Learning Hub                    (this page)
 Built for students and educators looking to teach that career and project
 success depend as much on stakeholder engagement and communication as on
 technical skill. If you're an educator interested in adapting this
-structure or toolkit for your own course, start with the
+structure or [toolkit](https://second-hand-tigers.github.io/toolkit/) for your own course, start with the
 [Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects).
 If you're an experienced engineer interested in contributing career
 content of your own, start with the

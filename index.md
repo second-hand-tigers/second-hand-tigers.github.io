@@ -58,13 +58,15 @@ approach for their own group.
 
 ## How This Organization Is Structured
 ```
-Learning Hub                    (this page)
-├── chem-eng-projects            (Process Engineering hub — philosophy, general wiki, links to projects)
-│   ├── chem-eng-projects-MogasDebenz   (one specific fictional project)
-│   └── (future projects, e.g. a crude expansion project)
-└── career-learnings-directory   (Career Learnings hub — links to contributor repos)
-    ├── badocter-career-learnings  (one contributor's career content)
-    └── (future contributor repos)
+Learning Hub (this page)
+├── chem-eng-projects (Process Engineering hub — philosophy, general wiki, links to projects)
+│ ├── chem-eng-projects-MogasDebenz (one specific fictional project)
+│ └── (future projects, e.g. a crude expansion project)
+├── career-learnings-directory (Career Learnings hub — links to contributor repos)
+│ ├── badocter-career-learnings (one contributor's career content)
+│ ├── career-learnings-template (starter template for new contributor repos)
+│ └── (future contributor repos)
+└── toolkit (reusable tooling for running this kind of org)
 ```
 
 ## Who This Is For

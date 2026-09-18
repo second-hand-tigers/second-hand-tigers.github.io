@@ -16,7 +16,20 @@ project content itself.
 > company's design discussions, technology choices, or regulatory timeline.
 > See each individual project repo for its specific disclaimer.
 
-## Topic Areas
+## Career Learnings
+
+Career and non-technical professional-development content, contributed by
+experienced engineers — complementary to, and independent of, the Topic
+Area project work above. Most people are working on a project and a
+career at the same time; start with whichever one you're more drawn to
+right now.
+
+- **[Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)**
+  — Directory of contributor repos covering topics like career-stage
+  development, communication and marketing, mentoring, and stress
+  management, drawn from individual engineers' real career experience.
+
+## Technical and Workflow Topic Areas
 
 Discipline-based hubs for project execution training — flowsheet modeling,
 design, and the stakeholder-communication skills a real project demands.
@@ -31,19 +44,6 @@ design, and the stakeholder-communication skills a real project demands.
 *(Additional topic areas will be listed here as they're developed. Each
 gets its own hub repo, mirroring the structure of Process Engineering
 above.)*
-
-## Career Learnings
-
-Career and non-technical professional-development content, contributed by
-experienced engineers — complementary to, and independent of, the Topic
-Area project work above. Most people are working on a project and a
-career at the same time; start with whichever one you're more drawn to
-right now.
-
-- **[Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)**
-  — Directory of contributor repos covering topics like career-stage
-  development, communication and marketing, mentoring, and stress
-  management, drawn from individual engineers' real career experience.
 
 ## Toolkit
 

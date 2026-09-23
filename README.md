@@ -56,12 +56,20 @@ Pages site and may show up here as this site grows:
 
 ## Navigation Convention Used On This Site
 
-This site's home page carries only a "Toggle to Repo View" link (pointing
+This site's home page carries a "Toggle to Repo View" link (pointing
 to `https://github.com/second-hand-tigers`) at the top — no "up" breadcrumb,
 since the org is the top of this organization's site hierarchy and there's
-nothing above it to link to. Project sites one level down (e.g.
-`badocter-career-learnings`, `career-learnings-directory`) follow the
-fuller pattern: an italicized breadcrumb (or stacked breadcrumb lines,
-using `<br>`) pointing up to their parent, plus a labeled toggle to that
-same page's GitHub-repo equivalent. New pages added here should stay
-consistent with whichever part of that pattern applies to their level.
+nothing above it to link to. The same top line also carries a "Follow
+Second-Hand Tigers on LinkedIn" link, and the page has a short
+Announcements section, since new content is announced on the
+[LinkedIn company page](https://www.linkedin.com/company/second-hand-tigers/)
+while the content itself stays on GitHub. The LinkedIn link lives only on
+the org-level home page (here and in the org profile README), not on
+individual project pages, consistent with the hub-and-spoke convention.
+
+Project sites one level down (e.g. `badocter-career-learnings`,
+`career-learnings-directory`) follow the fuller pattern: an italicized
+breadcrumb (or stacked breadcrumb lines, using `<br>`) pointing up to
+their parent, plus a labeled toggle to that same page's GitHub-repo
+equivalent. New pages added here should stay consistent with whichever
+part of that pattern applies to their level.

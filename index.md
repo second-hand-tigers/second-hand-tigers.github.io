@@ -3,7 +3,7 @@ layout: default
 title: Learning Hub
 ---
 
-_[Toggle to Repo View](https://github.com/second-hand-tigers)_
+_[Toggle to Repo View](https://github.com/second-hand-tigers)_ · _[Follow Second-Hand Tigers on LinkedIn](https://www.linkedin.com/company/second-hand-tigers/) for new-content announcements_
 
 # Learning Hub
 
@@ -16,11 +16,17 @@ project content itself.
 > company's design discussions, technology choices, or regulatory timeline.
 > See each individual project repo for its specific disclaimer.
 
+## Announcements
+
+New content is announced on the
+[Second-Hand Tigers LinkedIn page](https://www.linkedin.com/company/second-hand-tigers/);
+the content itself always lives here on GitHub.
+
 ## Career Learnings
 
 Career and non-technical professional-development content, contributed by
-experienced engineers — complementary to, and independent of, the Topic
-Area project work above. Most people are working on a project and a
+experienced engineers — complementary to, and independent of, the
+Technical and Workflow Topic Areas below. Most people are working on a project and a
 career at the same time; start with whichever one you're more drawn to
 right now.
 
@@ -57,6 +63,7 @@ approach for their own group.
   be cloned and reused directly rather than read about.
 
 ## How This Organization Is Structured
+
 ```
 Learning Hub (this page)
 ├── chem-eng-projects (Process Engineering hub — philosophy, general wiki, links to projects)

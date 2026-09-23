@@ -2,6 +2,7 @@
 layout: default
 title: Learning Hub
 ---
+
 <img src="/assets/images/logo_clear_background.png" alt="Second-Hand Tigers logo" width="160">
 
 _[Toggle to Repo View](https://github.com/second-hand-tigers)_ · _[Follow Second-Hand Tigers on LinkedIn](https://www.linkedin.com/company/second-hand-tigers/) for new-content announcements_

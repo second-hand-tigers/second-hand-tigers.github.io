@@ -9,62 +9,57 @@ _[Toggle to Repo View](https://github.com/second-hand-tigers)_ · _[Follow Secon
 
 # Learning Hub
 
-Welcome — this is the top-level entry point for the **second-hand-tigers**
-organization. It exists to help you find the right place to go, not to hold
-project content itself.
+Welcome to **second-hand-tigers** — career and project-skills content from
+experienced engineers. Pick the row that fits you:
 
-> Scenarios and projects linked from here are fictional and illustrative,
-> built for teaching purposes. They are not the actual history of any real
-> company's design discussions, technology choices, or regulatory timeline.
-> See each individual project repo for its specific disclaimer.
+## Where to Start
 
-## Announcements
+### Career Learnings
 
-New content is announced on the
-[Second-Hand Tigers LinkedIn page](https://www.linkedin.com/company/second-hand-tigers/);
-the content itself always lives here on GitHub.
+| If you are... | Start here |
+|---|---|
+| Looking for a job | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) — resumes, LinkedIn, interview prep |
+| Newly hired and want to hit the ground running | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) — career stages and development planning |
+| A manager or leader | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) — developing and staffing your people |
+| Working on communication skills | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) — presentations, BLUF, workplace writing |
+| Complete Listing of Career Topics | [Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/) |
 
-## Career Learnings
+### Technical & Workflow Learnings
 
-Career and non-technical professional-development content, contributed by
-experienced engineers — complementary to, and independent of, the
-Technical and Workflow Topic Areas below. Most people are working on a project and a
-career at the same time; start with whichever one you're more drawn to
-right now.
+|  | Start here |
+|---|---|
+| Working on a design project | **WORK IN PROGRESS** [Motor Gasoline Benzene Removal Project](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/) — scoping, design, milestones, flowsheet modeling, PFDs/BFDs, stakeholder engagement |
+| Complete Listing of Technical and Workflow Topics | **WORK IN PROGRESS** [Process Engineering](https://second-hand-tigers.github.io/chem-eng-projects/)  |
 
-- **[Career Learnings Directory](https://second-hand-tigers.github.io/career-learnings-directory/)**
-  — Directory of contributor repos covering topics like career-stage
-  development, communication and marketing, mentoring, and stress
-  management, drawn from individual engineers' real career experience.
+Internal planning (task boards, cross-project coordination) and toolkit
+code (GitHub App automation used to simulate stakeholder conversations)
+live in separate, non-public-facing repos and aren't linked from here.
 
-## Technical and Workflow Topic Areas
+## Who This Is For
 
-Discipline-based hubs for project execution training — flowsheet modeling,
-design, and the stakeholder-communication skills a real project demands.
+Built for students and educators with specific focus on career and project
+success depending as much on stakeholder engagement and communication as on
+technical skill. 
 
-- **[Process Engineering](https://second-hand-tigers.github.io/chem-eng-projects/)**
-  — Flowsheet modeling, process design, and stakeholder-communication
-  training built around fictional refinery/process projects (e.g. the
-  Motor Gasoline Benzene Removal Project). Start here for anything related
-  to PFDs, BFDs, flowsheet simulation, or the stakeholder-engagement
-  training approach this organization is built around.
+- If you are a student, start with the topic that feels closest to what you are dealing with right now. Project work and career development happen in parallel, not in sequence — you’re building a project and building a career at the same time, and most people find themselves more pulled toward one than the other at any given moment. That’s expected, not a problem to fix.  
+- If you're an educator interested in adapting this site's
+structure or [toolkit](https://github.com/second-hand-tigers/toolkit) for your own course, start with the
+[Process Engineering hub](https://second-hand-tigers.github.io/chem-eng-projects/)
+for the general approach, then look at a specific project repo to see it
+in action.
 
-*(Additional topic areas will be listed here as they're developed. Each
-gets its own hub repo, mirroring the structure of Process Engineering
-above.)*
-
-## Toolkit
+## Site Developers Toolkit
 
 Reusable command-line tools behind how this organization's content is
 built and maintained — not project or career content itself, but the
 infrastructure someone would want if they're adapting this whole
 approach for their own group.
 
-- **[toolkit](https://second-hand-tigers.github.io/toolkit/)** — public,
+- **[toolkit](https://github.com/second-hand-tigers/toolkit)** — public,
   MIT-licensed tools (starting with a GitHub wiki dump utility), meant to
   be cloned and reused directly rather than read about.
 
-## How This Organization Is Structured
+### How This Organization Is Structured
 
 ```
 Learning Hub (this page)
@@ -77,14 +72,3 @@ Learning Hub (this page)
 │ └── (future contributor repos)
 └── toolkit (reusable tooling for running this kind of org)
 ```
-
-## Who This Is For
-
-Built for students and educators looking to teach that career and project
-success depend as much on stakeholder engagement and communication as on
-technical skill. If you're an educator interested in adapting this
-structure or [toolkit](https://second-hand-tigers.github.io/toolkit/) for your own course, start with the
-[Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects).
-If you're an experienced engineer interested in contributing career
-content of your own, start with the
-[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory).

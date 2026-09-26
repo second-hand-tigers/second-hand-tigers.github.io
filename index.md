@@ -73,3 +73,7 @@ Learning Hub (this page)
 │ └── (future contributor repos)
 └── toolkit (reusable tooling for running this kind of org)
 ```
+
+---
+
+**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.

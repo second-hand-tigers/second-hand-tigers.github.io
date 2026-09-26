@@ -18,6 +18,7 @@ experienced engineers. Pick the row that fits you:
 
 | If you are... | Start here |
 |---|---|
+| Still in school | [Making the Most of College](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Making-the-Most-of-College) — co-op, extracurriculars, undergrad research, grad school |
 | Looking for a job | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) — resumes, LinkedIn, interview prep |
 | Newly hired and want to hit the ground running | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) — career stages and development planning |
 | A manager or leader | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) — developing and staffing your people |

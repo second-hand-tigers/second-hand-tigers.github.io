@@ -71,8 +71,12 @@ Learning Hub (this page)
 │ ├── badocter-career-learnings (one contributor's career content)
 │ ├── career-learnings-template (starter template for new contributor repos)
 │ └── (future contributor repos)
-└── toolkit (reusable tooling for running this kind of org)
+├── toolkit (reusable tooling for running this kind of org)
+└── .github (organization policies, licensing, and contributing terms)
 ```
+---
+
+[Policies](https://github.com/second-hand-tigers/.github/wiki) · [Privacy Policy](https://github.com/second-hand-tigers/.github/wiki/Management-of-Private-Information#part-2-information-the-organization-handles) · [Contributing](https://github.com/second-hand-tigers/.github/blob/main/CONTRIBUTING.md)
 
 ---
 

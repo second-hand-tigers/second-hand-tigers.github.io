@@ -31,7 +31,11 @@ anything and still get a Pages site at `<account>.github.io/<repo-name>`.
 | File | Purpose |
 |---|---|
 | `_config.yml` | Site-wide settings: title, description, and which built-in theme to use (`theme: jekyll-theme-cayman`, etc.). One of GitHub's 13 supported themes — changing themes is a one-line edit here, no other files need to change. |
-| `index.md` | The site's only page currently: the org-wide "Learning Hub" home page. Front matter at the top (`layout: default`, `title: ...`) plus the page content in Markdown below it. All links on this page use full `https://github.com/...` URLs rather than relative links, since this site lives on a different domain than the repos it points to. |
+| `index.md` | The site's only page currently: the org-wide "Learning Hub" home page. Front matter at the top (`layout: default`, `title: ...`) plus the page content in Markdown below it. All links on this page use full absolute URLs rather than relative links, since this site lives on a different domain than the repos it points to: `github.com` for repos and wikis, and `second-hand-tigers.github.io` for the sibling Pages sites. |
+| `assets/images/logo_clear_background.png` | The Second-Hand Tigers logo shown at the top of the home page. The logo is not covered by this site's license (see License and Contributing below). |
+| `LICENSE.md` | The license for this repo's written content (CC BY 4.0), with the logo and third-party material excluded. |
+| `CONTRIBUTING.md` | The contribution terms. The organization-wide copy lives in the `.github` repo, but default files are not included when a repo is cloned or downloaded, so this repo carries its own copy. |
+| `README.md` | This file. |
 
 Every content page here needs `layout: default` in its front matter —
 that's the one layout name guaranteed to exist across all of GitHub's
@@ -46,7 +50,7 @@ Pages site and may show up here as this site grows:
 | File / Folder | Purpose |
 |---|---|
 | `assets/css/style.scss` | Custom CSS overrides layered on top of the chosen theme (e.g. shrinking a banner's padding) without abandoning the theme itself. Must start with an empty `---` front-matter block, then `@import "{{ site.theme }}";`, then your overrides. |
-| `assets/images/`, `assets/` (general) | Images or other static files the site references — logos, screenshots, downloadable files linked from a page. |
+| `assets/` (other files) | Other static files the site references beyond the logo — screenshots, downloadable files linked from a page. |
 | `_layouts/` | Custom page layouts, if the built-in theme layouts (`default`, etc.) stop being enough. |
 | `_includes/` | Reusable snippets of HTML/Markdown pulled into multiple pages (a shared header, footer, or nav block), instead of copy-pasting the same content everywhere. |
 | `_data/` | Structured data (YAML/JSON/CSV) a page can loop over — e.g. a growing Topic Areas list rendered from data instead of hand-written Markdown. |
@@ -56,20 +60,35 @@ Pages site and may show up here as this site grows:
 
 ## Navigation Convention Used On This Site
 
-This site's home page carries a "Toggle to Repo View" link (pointing
-to `https://github.com/second-hand-tigers`) at the top — no "up" breadcrumb,
-since the org is the top of this organization's site hierarchy and there's
-nothing above it to link to. The same top line also carries a "Follow
-Second-Hand Tigers on LinkedIn" link, and the page has a short
-Announcements section, since new content is announced on the
-[LinkedIn company page](https://www.linkedin.com/company/second-hand-tigers/)
-while the content itself stays on GitHub. The LinkedIn link lives only on
-the org-level home page (here and in the org profile README), not on
-individual project pages, consistent with the hub-and-spoke convention.
+This site's home page deliberately has no "Toggle to Repo View" link, so
+visitors stay on the github.io pages instead of wandering off to GitHub.
+The top of the page carries the organization logo and a "Follow
+Second-Hand Tigers on LinkedIn" link, since new content is announced on
+the [LinkedIn company page](https://www.linkedin.com/company/second-hand-tigers/)
+while the content itself stays on GitHub. There is no "up" breadcrumb,
+since the org is the top of this organization's site hierarchy and
+there's nothing above it to link to. The LinkedIn link lives only on the
+org-level home page (here and in the org profile README, `profile/README.md`
+in the `.github` repo), not on individual project pages, consistent with
+the hub-and-spoke convention.
+
+The matching READMEs do the opposite: they carry a "Toggle to Page View"
+link pointing to the Pages version of the same page.
 
 Project sites one level down (e.g. `badocter-career-learnings`,
-`career-learnings-directory`) follow the fuller pattern: an italicized
+`career-learnings-directory`) follow a fuller pattern: an italicized
 breadcrumb (or stacked breadcrumb lines, using `<br>`) pointing up to
-their parent, plus a labeled toggle to that same page's GitHub-repo
-equivalent. New pages added here should stay consistent with whichever
+their parent. Like this site, their Pages versions carry no toggle to the
+repo view. New pages added here should stay consistent with whichever
 part of that pattern applies to their level.
+
+## License and Contributing
+
+The written content of this site is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see
+[`LICENSE.md`](./LICENSE.md). The Second-Hand Tigers logo is not covered
+by that license, and all rights in it are reserved. Contributions follow
+[`CONTRIBUTING.md`](./CONTRIBUTING.md), and the organization-wide policies
+live on the [.github wiki](https://github.com/second-hand-tigers/.github/wiki).
+
+*Drafted with AI assistance (Claude, Anthropic); reviewed, verified, and adopted by William Docter.*
